@@ -11,7 +11,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)    📚Bibliotecas : Pandas, SELENIUM, BeautifulSoup, Pyautogui, Plotly, Flask.
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)    
+    📚: Pandas, SELENIUM, BeautifulSoup, Pyautogui, Plotly, Flask.
   
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
@@ -26,4 +27,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🤝 Vamos Conectar!
 
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewin-delazeri-5ab567238/?originalSubdomain=br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewin-delazeri-5ab567238/?originalSubdomain=br)
