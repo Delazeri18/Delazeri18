@@ -21,8 +21,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
 ## 📈 Cursos
-- [Flask]([https://cursos.alura.com.br/degree/certificate/79978f3c-d162-44b6-a2db-903fea994d59?lang])
-- [Google_Data_Analytics]([https://www.coursera.org/account/accomplishments/specialization/certificate/QDZA84DXFBSQ])
+- [Flask](https://cursos.alura.com.br/degree/certificate/79978f3c-d162-44b6-a2db-903fea994d59?lang)
+- [Google_Data_Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/QDZA84DXFBSQ)
 
 
 ## 🤝 Vamos Conectar!
