@@ -11,9 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-  📚Bibliotecas : Pandas, SELENIUM, BeautifulSoup, Pyautogui, Plotly, Flask.
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)    📚Bibliotecas : Pandas, SELENIUM, BeautifulSoup, Pyautogui, Plotly, Flask.
   
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
