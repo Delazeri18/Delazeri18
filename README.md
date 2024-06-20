@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🚀 Sobre Mim
 
 - 💼 Atualmente trabalhando como Estagiário na Dinho distribuidra
-- 🌱 Atualmente estou aprendendo HTML; CSS; PENTEST
+- 🌱 Atualmente estou aprendendo HTML; CSS; Ciência de Dados(python, ML, estatística)
 - 💬 Pergunte-me sobre Computação
 - 📫 Como me encontrar: Kewindelazeri7@gmail.com
 
